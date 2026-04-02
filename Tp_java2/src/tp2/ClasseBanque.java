@@ -1,6 +1,6 @@
 package tp2;
 
-public class Banque {
+public class ClasseBanque {
 
     public String nom;
     public CompteBancaire[] comptes;
