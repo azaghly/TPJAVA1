@@ -1,4 +1,4 @@
-package tp2;
+package TP2;
 public class TestBanque {
 
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class TestBanque {
         banque.ajouterCompte(c1);
         banque.ajouterCompte(c2);
         banque.ajouterCompte(c3);
-
+        
         c1.deposer(500);
         c1.retirer(1200);
 
